@@ -387,5 +387,293 @@
 
 
 
+## 고성
+
+
+
+
+
+
+
+<img src="https://github.com/user-attachments/assets/293913af-9970-4f42-b5b0-fe2896c9ebdc" width="500" height="375"><br>
+
+시작
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/a1611577-18b0-4427-be6c-8efa9cdb27c3" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/4e7bb0f8-d973-421e-ac7f-f209e43ad661" width="500" height="375"><br>
+
+전투
+
+<br>
+<br>
+<br>
+
+
+<img src="https://github.com/user-attachments/assets/1f9a6d0c-19bb-474d-8341-17dfac416e2d" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/6e07cab8-778d-4481-8c7a-adc4623db389" width="500" height="375"><br>
+
+퍼즐기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/9e139526-4731-4222-81be-fffc289c47a9" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/7b1c2175-aece-489f-865c-f0f183387efb" width="500" height="375"><br>
+
+정예 몬스터 전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/afa34d1f-3df7-4de6-89d9-63456bbeede4" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/4f3d96a9-baba-48f7-a140-0635a7856cb8" width="500" height="375"><br>
+
+함정 기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/c4ce00b0-ffe3-446e-971b-ec393b2987ca" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/5fd38890-aa9a-4106-987b-c92dabff71c4" width="500" height="375"><br>
+
+정예몬스터 전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/4065c445-09e1-41b0-8bea-563b6dcee91d" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/2321373a-ac1a-483e-a0d5-80ec3dc93670" width="500" height="375"><br>
+
+퀴즈 기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/cb39ecdf-3a96-4044-a44c-e66e8d3054a2" width="500" height="375"><br>
+
+전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/b7b7fa66-2660-4958-8487-f8942845666c" width="500" height="375"><br>
+
+함정 상자 기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/e63da5b9-66fb-4636-8484-adcd68fe2039" width="500" height="375"><br>
+
+다수 몬스터와 함정
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/8987e0df-799a-4c8a-a0d0-90ebc9d96cf6" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/0f6868e5-7ec2-4df8-88e8-7237eded86a3" width="500" height="375"><br>
+
+전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/a69d93c6-593d-4b3b-bd86-21142968c732" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/8a65eb4e-2a89-4503-a07c-68409e8223f1" width="500" height="375"><br>
+
+퀴즈 기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/c218fa73-19a7-4bf5-baf5-f2a4078bd9d0" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/304f52fc-4c8f-48e9-9857-031d14899647" width="500" height="375"><br>
+
+조금더 난이도 있는 몬스터 배치
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/9fc9566a-30b6-48e1-b257-c9e95ea64aaa" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/5624dbe3-7ed3-4f05-843f-cf1e8ff11d27" width="500" height="375"><br>
+
+퀴즈
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/b47de686-e340-4d6a-831d-ae9af7c19e37" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/6df05f05-74a8-41aa-89c7-e88a6d5b8939" width="500" height="375"><br>
+
+중간보스
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/1d9d195f-1761-441c-b65b-f6d0db817320" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/0d589db7-8bca-422e-96db-08fc2c747c3b" width="500" height="375"><br>
+
+폭탄피하기 함정 지형 돌파
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/4039561c-48d3-4e3b-809f-4f13bde7c2fe" width="500" height="375"><br>
+
+진자 함정
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/b937e328-d49d-4638-8a66-0a85e7dfcfc3" width="500" height="375"><br>
+
+몬스터도 낙사 가능
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/095b1244-2e50-467b-8e01-a3362a5a6e7e" width="500" height="375"><br>
+
+폭탄피하기
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/fc0a2779-7d94-41bd-8e32-da9611adc161" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/3087ae73-d786-4b43-be8b-b7a693cce36f" width="500" height="375"><br>
+
+진자와 폭탄피하기의 결합
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/9fd89df3-6a97-4aa4-90b3-ee7cdf2a2e53" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/d0acce71-153d-4a57-b105-7864e6ad78e6" width="500" height="375"><br>
+
+넉백 시키는 몬스터와 낙사 지형
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/9f21370d-6bf5-4aee-ab9e-139f69660ffd" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/8f63a787-272f-4453-a183-c8669d035a5b" width="500" height="375"><br>
+
+여러개의 진자 함정 기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/51d96b0a-ac6d-4bcc-910e-371d4df307c2" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/f8df860c-af02-4161-b34e-cf0fa7c233dd" width="500" height="375"><br>
+
+중앙 통로로
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/f986f0a9-cf89-4a11-b2d6-9d99c4246b9b" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/dcfba020-bce0-40ae-9da8-294b3367e8ae" width="500" height="375"><br>
+
+5! = 120 기반 <br>
+화로 불켜기 퀴즈 기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/d1b1d2c0-ba26-4aea-bfcd-72ae822fba71" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/e75b8783-9779-47c0-852f-35b2c91b3946" width="500" height="375"><br>
+
+어려운 전투로 환기
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/cf78bbfd-51d9-474b-a5bf-3fc1860c5cc7" width="500" height="375"><br>
+
+함정과 퍼즐 기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/2e034787-2172-40c6-873a-3423e3269607" width="500" height="375"><br>
+
+좁은 지형과 낙사구간 초입
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/cbba0a69-0b26-43f9-9395-5fcc38bcee6e" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/ab3d382c-6288-4ac7-814d-070d8445efe1" width="500" height="375"><br>
+
+몬스터 넉백 맞고 낙사 가능 <br>
+대쉬기를 잘못써서 낙사 가능
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/1af4607f-88eb-4ef0-97c2-0f6275ff535f" width="500" height="375"><br>
+
+전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/1bb04b9d-3612-4f91-8e26-7ce3ef54ca9c" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/c76accd5-e256-476b-b979-106bf67fc93f" width="500" height="375"><br>
+
+넉백시키는 몬스터와의 좁은 길목 전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/5becb5b5-0bb6-492d-9c7c-de2b3878c690" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/714817f8-4ed4-4df4-8866-7425016c590f" width="500" height="375"><br>
+
+전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/b8641f56-f9b9-43e3-9721-3a9c171040b5" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/c14c482a-845d-4650-a5c0-13de9be9f3bc" width="500" height="375"><br>
+
+난이도 있는 전투
+
+<br>
+<br>
+<br>
+
 
 
