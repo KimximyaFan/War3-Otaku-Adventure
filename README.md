@@ -1025,5 +1025,86 @@
 <br>
 
 
+## 초기 던전
 
+<img src="https://github.com/user-attachments/assets/b4425bc3-f200-4e03-a58d-08c9e6f28cab" width="500" height="375"><br>
+
+최하 난이도 구성
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/6ea2fada-8056-4479-a041-27a92aa7ebdd" width="500" height="375"><br>
+
+던전을 진행하면서 간간히 볼 수 있는 보물상자
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/6f06b1eb-0512-449b-997f-8f1b5c48b53a" width="500" height="375"><br>
+
+약간 증가한 난이도의 몬스터
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/9273fc25-cc94-4d4d-9e71-85a2e19c1656" width="500" height="375"><br>
+
+높은 난이도의 구성 <br>
+원거리 몬스터들의 투사체 공격
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/cd1e9007-dd27-4aa5-ae7b-69a18ff4e232" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/f86f3a65-3155-4099-85f9-9deaf4cf82c2" width="500" height="375"><br>
+
+더 증가한 난이도의 패턴
+
+더 넓은범위의 공격, 그리고 넉백까지, 잘못 맞으면 영역 밖으로 튕겨져 나가 즉사 가능
+
+거기에 2마리의 원거리 몬스터들까지 추가
+
+​<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/17a0de5f-565a-489a-bff4-dcab4854dae5" width="500" height="375"><br>
+
+함정패턴의 방
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/0d15fd91-740d-45f5-8390-b81ae49db6ff" width="500" height="375"><br>
+
+중간 보스급의 패턴
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/27a8ef38-befb-44c3-af1b-c8dd3542fb8a" width="500" height="375"><br>
+
+클리어하고나서 보상이 떨어집니다
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/28b56fd6-6198-49c0-b71b-6b68bd6be9ff" width="500" height="375"><br>
+
+상자가 미믹일지 아닐지는 알 수가 없음
+
+깨어난 미믹의 공격에 반응하지 못하면 즉사
+
+
+<br>
+<br>
+<br>
 
