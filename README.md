@@ -137,7 +137,9 @@
 파편화된 많은 구역들을 하나로 엮어서 매핑하였음 <br>
 섬 - 항해 - 갑판 사이의 맵핑 구현을 통해 리소스 사용 최적화 <br>
 
-
+<br>
+<br>
+<br>
 
 
 <img src="https://github.com/user-attachments/assets/03a80efe-462b-40fb-9812-46d0d5e5bfb0" width="500" height="375"><br>
@@ -151,6 +153,10 @@
 <img src="https://github.com/user-attachments/assets/8de6764c-f863-4f6f-9ba4-3e7be2bb1964" width="500" height="375"><br>
 
 파편화된 지역들을 유기적으로 이어줄 항해
+
+<br>
+<br>
+<br>
 
 <img src="https://github.com/user-attachments/assets/0d0ea9a3-72b6-4ef0-849e-aab363505184" width="500" height="375"><br>
 
