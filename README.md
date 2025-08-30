@@ -12,14 +12,13 @@
 
 ## 로크라이크 던전 테마
 
-<img width="474" height="306" alt="image" src="https://github.com/user-attachments/assets/018eed47-e253-449a-ae48-883b7d8daab8" />
+![1](https://github.com/user-attachments/assets/59fda823-2e3a-4449-b122-6ddca481c06e)
 
 랜덤 던전 메이킹
 
 
 
-<img width="474" height="306" alt="image" src="https://github.com/user-attachments/assets/7dcf3504-62b9-49fd-aae1-9785019ba3f6" />
-<img width="474" height="306" alt="image" src="https://github.com/user-attachments/assets/9f9321db-3278-4d17-86e5-6407cf28e197" />
+
 
 
 증강 구현
