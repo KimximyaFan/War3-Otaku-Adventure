@@ -677,3 +677,353 @@
 
 
 
+## 동굴
+
+
+
+<img src="https://github.com/user-attachments/assets/004db587-87ca-4944-9aaf-33f07a083cf9" width="500" height="375"><br>
+
+시작
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/8a4c45bf-ad31-40ef-9187-2a9cc75c1e5c" width="500" height="375"><br>
+
+보물상자
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/6fa96bbf-0d89-47e7-aa4c-e3f1dbfa496f" width="500" height="375"><br>
+
+전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/3efabf25-49da-4ef6-83a9-f40a01df25b9" width="500" height="375"><br>
+
+보물상자로 유저의 이목을 끌어서 전투 유도
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/75e81f2f-0be2-423c-a883-ff6be12b51c0" width="500" height="375"><br>
+
+바위함정
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/3080be24-8ebc-4bec-aadd-c563dfa12220" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/6fd8d1da-9c37-4527-a647-7b32a7083d25" width="500" height="375"><br>
+
+레버와 보물상자 배치로, 맵 진행 유도
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/0a89b1a0-8dca-47cd-81e3-7202007f4d4e" width="500" height="375"><br>
+
+바위함정
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/d412dcc4-8aca-40ff-8459-bda3220ef007" width="500" height="375"><br>
+
+진행을 위한 레버와 난이도 있는 몹 배치
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/4fbbbaff-a3dc-4732-9d32-9d3f9e5a231b" width="500" height="375"><br>
+
+표지판으로 유저의 이목을 끌어서 전투유도
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/8cbf5e82-41af-4e58-b865-e7d6c02a8b26" width="500" height="375"><br>
+
+정예 전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/3308f66f-7345-4a0e-819e-513023b82430" width="500" height="375"><br>
+
+해치우고 나온 보상으로 스탯을 찍는다
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/851d8fd6-ab7c-40b6-a78d-130805a45f49" width="500" height="375"><br>
+
+바위
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/81c8a47c-d89f-4ae5-840d-0f4f0af4e19f" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/f0d88d7d-a387-4cf6-aa93-6fde86542baf" width="500" height="375"><br>
+
+표지판으로 유저의 이목 끌고 <br>
+함정으로 유도
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/97e9eaea-b279-49dc-a680-1ae36f99dd01" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/0b1bf683-6eff-4530-b45d-86a3f8eeaa24" width="500" height="375"><br>
+
+생존시 새로운 기믹에 대한 힌트
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/80bda41f-0f6b-4919-bfe1-6de3c2eff697" width="500" height="375"><br>
+
+상점과 퀘스트 그리고 부활지점 변경
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/5fb5a9bd-8e4d-414a-8785-d194cfb0bf28" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/9865896e-6537-4db7-9f95-90d9b6f410ff" width="500" height="375"><br>
+
+길목이 많지만 이동을 제한 시킴으로써 <br>
+선형적인 진행 유도
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/21951aae-f276-41cc-9680-c174fe5163c1" width="500" height="375"><br>
+
+각종 재화들로 플레이어를 유도하는 함정방
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/8bac100a-05f6-4ca8-b4bb-4a60dad3b163" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/94e1250e-6e3d-4fc2-9665-d28c2d5fb5fc" width="500" height="375"><br>
+
+전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/2ff6f39b-0207-423b-b127-b92009ce63d3" width="500" height="375"><br>
+
+곳곳에 바위함정 배치
+
+<img src="https://github.com/user-attachments/assets/c2518cb2-07b3-4aef-98f1-d337daa6c030" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/a28334d1-2cc1-4436-818a-bf505c6bcb0b" width="500" height="375"><br>
+
+표지판 및 아이템으로 함정 유도
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/25c6ac7f-943f-4245-a887-7eadfcacf2dd" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/a8d1d0ca-69dc-4c8e-b426-02d7dde35ca6" width="500" height="375"><br>
+
+특수지역 기믹 진입
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/67bd7404-7e84-44c2-ad06-2617ffc1aee4" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/577f07be-827b-431c-9567-edba4140f2e5" width="500" height="375"><br>
+
+특수지역 전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/1f1a93ac-cae5-44f9-9ee5-d6c0fa4edc30" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/b29afe88-7ec1-4251-b28b-379a0901e0ad" width="500" height="375"><br>
+
+바위함정 지형 돌파 기믹
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/0445f845-4c99-44eb-ae76-76c08482aa3f" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/c37b7e60-83dc-4a9d-90c7-7f1b73722c16" width="500" height="375"><br>
+
+바위함정 지형 돌파 기믹2
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/63c9ad2f-2ee1-4f82-bee6-310def2a91af" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/865ba57d-1a14-4b5b-9613-b276f83fef24" width="500" height="375"><br>
+
+전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/1b14947e-6cfd-4a91-9a13-15a29caf3d7f" width="500" height="375"><br>
+
+정예 전투
+
+
+<br>
+<br>
+<br>
+
+
+
+
+## 오픈필드
+
+
+
+<img src="https://github.com/user-attachments/assets/f5853478-9dab-409f-b5ba-426910c26a1c" width="500" height="375"><br>
+
+시작 마을
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/5247d15e-5ca0-457e-a188-3303b8ea3a10" width="500" height="375"><br>
+
+길드 퀘스트
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/3a7f507d-3c42-4f37-873f-016223ec5c1f" width="500" height="375"><br>
+
+사냥
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/63330cdb-85ac-4b32-9712-cb462d6f0347" width="500" height="375"><br>
+
+넓은 지역을 옮겨다니는 워프시스템
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/968d7fba-4e38-40c1-a0dd-b0fe9cc289c6" width="500" height="375"><br>
+
+미니던전1
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/04961a06-c2d1-4abe-bf93-10b2986dc3fa" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/5e25a352-20e5-45a3-b41d-ec415a81ceac" width="500" height="375"><br>
+
+필드의 보물상자 <br>
+몬스터들 다 잡으면 상자를 열 수 있음
+
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/566d401d-9777-47a0-8a17-d8a40b9353a0" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/76e0e3f8-a427-4f4d-95ca-a1078c3bbd26" width="500" height="375"><br>
+
+미니던전2
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/0d868f6c-20f9-4b45-b23d-b12ea70391b8" width="500" height="375"><br>
+
+필드상자2
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/b6019ed2-2764-4b3e-8baf-80b601151016" width="500" height="375"><br>
+
+정예 전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/8d976907-e69f-4941-8c65-0bec58499339" width="500" height="375"><br>
+
+서브퀘스트
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/d1fb0a87-143e-4881-9bf9-12aba92c17c5" width="500" height="375"><br>
+
+필드상자3
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/7f82fd28-92e9-41de-a9b3-c728e000dbb1" width="500" height="375"><br>
+
+특수 기믹 지역
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/0cf04ab0-faa0-4c9e-89c6-c939ee8c7176" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/6969eb9b-7f1d-4032-b5ce-9f5794da160c" width="500" height="375"><br>
+
+특수지역 전투
+
+<br>
+<br>
+<br>
+
+<img src="https://github.com/user-attachments/assets/bd5b6f05-cbee-4642-8b48-122b83ef376b" width="500" height="375">
+<img src="https://github.com/user-attachments/assets/8f7de699-1702-45e0-8415-08333df4c73a" width="500" height="375"><br>
+
+특수지역 전투2
+
+<br>
+<br>
+<br>
+
+
+
+
